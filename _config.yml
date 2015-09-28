@@ -15,8 +15,11 @@ youtube:
 conference:
   hosts:
   organizers:
+  - {name: Max Zwiessele, url: "http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/"}
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
-  - {name: Max Zwiessele, url: "http://inverseprobability.com"}
+  - {name: The Farr Institute, url: "http://www.farrinstitute.org/"}
+  - {name: The NewMind Network, url: "http://www.informatics.manchester.ac.uk/NewMind/Pages/default.aspx"}
+  - {name: MLPM ITN Network, url: "http://mlpm.eu"}
   name: MLPM Summer School
   hosturl: 
   location: Museum of Science and Industry, Manchester
@@ -28,7 +31,7 @@ conference:
   - {date: 23, day: Wednesday, month: September, year: 2015}
   - {date: 24, day: Thursday, month: September, year: 2015}
   - {date: 25, day: Friday, month: September, year: 2015}
-  draft: Y # set to Y if the programme is draft only.
+  draft: N # set to Y if the programme is draft only.
 
 # Build settings
 markdown: kramdown

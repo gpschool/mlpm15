@@ -4,6 +4,7 @@ email:
 description: > # this means to ignore newlines until "baseurl"
   Summer school of the Marie Curie ITN "Machine Learning fro Personalized Medicine"
 baseurl: "" # the subpath of your site, e.g. /blog/
+logo: "mlpm_Logo_final_cropped.gif"
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: mlpm_itn
 github_username:  SheffieldML

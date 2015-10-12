@@ -1,6 +1,6 @@
 # Site settings
 title: "MLPM: Machine Learning for Personalized Medicine Summer School, 2015"
-email: 
+email: M.Zwiessele@sheffield.ac.uk
 description: > # this means to ignore newlines until "baseurl"
   Summer school of the Marie Curie ITN "Machine Learning fro Personalized Medicine"
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -8,6 +8,9 @@ logo: "mlpm_Logo_final_cropped.gif"
 url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: mlpm_itn
 github_username:  SheffieldML
+analytics:
+  google:
+    tracking_id: UA-62991754-1
 
 youtube:
   height: 315

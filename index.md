@@ -3,12 +3,16 @@ layout: default
 ---
 
 **{{ site.conference.location }}**,
+
 {% assign startdate = site.conference.dates | first %}
 {% assign enddate = site.conference.dates | last %}
 {% if startdate.month == enddate.month %}
 {{ startdate.date }} - {{ enddate.date }} {{ startdate.month }} {{ startdate.year }}<br>
 {% else %}
 {{ startdate.date }} {{ startdate.month }} - {{ enddate.date }} {{ enddate.month }} {{ startdate.year }}
+{% endif %}
+{% if site.conference.youtube %}
+<iframe width="{{ site.youtube.width }}" height="{{ site.youtube.height }}" src="https://www.youtube.com/embed/{{ site.conference.youtube }}" frameborder="0" allowfullscreen></iframe>
 {% endif %}
 {% if site.conference.hosturl %} [Hosts Local Page](https://sites.google.com/site/gpapprox/home)<br>{% endif %}
 {% if site.conference.organizers %} organized by {% for person in site.conference.organizers %}[{{ person.name }}]({{ person.url }}){% if site.conference.organizers | size > 1 %}, {% endif %}{% endfor %}{% endif %}

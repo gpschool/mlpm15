@@ -16,7 +16,9 @@ youtube:
   height: 315
   width: 560
 
+
 conference:
+  youtube: rHAKf3rGpC8
   hosts:
   - {name: Museum of Science and Industry, url: "http://www.mosi.org.uk/"}
   organizers:

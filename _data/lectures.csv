@@ -1,40 +1,40 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
 Monday,21,September,8:45,9:00,**Arrival and Registration**,,,,,
-Monday,21,September,9:00,10:00,"**Heritability-based Models for Prediction of Complex Traits",,,[David Balding](http://www.ms.unimelb.edu.au/Personnel/profile.php?PC_id=1520), University of Melbourne,
-Monday,21,September,10:00,11:00,"**Statistical Methods for Real-time Monitoring of Health Outcomes**",,,[Peter Diggle](http://www.lancaster.ac.uk/staff/diggle/), University of Lancaster,
+Monday,21,September,9:00,10:00,"**Heritability-based Models for Prediction of Complex Traits",,,[David Balding](http://www.ms.unimelb.edu.au/Personnel/profile.php?PC_id=1520), University of Melbourne,VI-5HlYQpNE
+Monday,21,September,10:00,11:00,"**Statistical Methods for Real-time Monitoring of Health Outcomes**",,,[Peter Diggle](http://www.lancaster.ac.uk/staff/diggle/), University of Lancaster,cgAUMmqZcKw
 Monday,21,September,11:00,11:30,**Coffee Break**,,,,,
-Monday,21,September,11:30,12:30,"**Tutorial: 'Modeling Molecular Heterogeneity Between Individuals and Single Cells'**",,,[Oliver Stegle](http://www.ebi.ac.uk/research/stegle),EBI,
+Monday,21,September,11:30,12:30,"**Tutorial: 'Modeling Molecular Heterogeneity Between Individuals and Single Cells'**",,,[Oliver Stegle](http://www.ebi.ac.uk/research/stegle),EBI,RXTectjS1p4
 Monday,21,September,12:30,13:30,**Lunch**,,,,,
 Monday,21,September,13:30,15:30,"**Lab Session: 'Taking Confounding Variation into Account in Latent Variable Modeling in Single Cell Data'**",,,[Oliver Stegle](http://www.ebi.ac.uk/research/stegle) and [Max Zwiessele](http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/),,
 Monday,21,September,15:30,16:00,**Tea Break**,,,,,
 Monday,21,September,16:00,17:00,"**Peer Review and the NIPS Experiment**",,,[Neil Lawrence](http://inverseprobability.com), University of Sheffield,
 Tuesday,22,September,9:00,10:00,"**Computational Decision Theory (Model Misspecification)**",,,[Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/),University of Oxford,
-Tuesday,22,September,10:00,11:00,"**Probabilistic Modelling of 'omic Time Course Data**",,,[Magnus Rattray](http://www.ls.manchester.ac.uk/people/profile/?alias=rattraym), University of Manchester,
+Tuesday,22,September,10:00,11:00,"**Probabilistic Modelling of 'omic Time Course Data**",,,[Magnus Rattray](http://www.ls.manchester.ac.uk/people/profile/?alias=rattraym), University of Manchester,20X3IALzW9Y
 Tuesday,22,September,11:00,11:30,**Coffee Break**,,,,,
-Tuesday,22,September,11:30,12:30,"**Tutorial: 'Statistical Challenges in the Analysis of Single-cell Transcriptomics Data'**",,,[Catalina Vallejos](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/),EBI and MRC Biostatistics Unit,
+Tuesday,22,September,11:30,12:30,"**Tutorial: 'Statistical Challenges in the Analysis of Single-cell Transcriptomics Data'**",,,[Catalina Vallejos](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/),EBI and MRC Biostatistics Unit,Ztey6RNXHGI
 Tuesday,22,September,12:30,13:30,**Lunch**,,,,,
 Tuesday,22,September,13:30,15:30,"**Lab Session: 'Statistical Challenges in the Analysis of Single-cell Transcriptomics Data'**",,,[Catalina Vallejos](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/) and [Nils Eling](https://www.ebi.ac.uk/about/people/nils-eling),EBI and MRC Biostatistics Unit,
 Tuesday,22,September,15:30,16:00,**Tea Break**,,,,,
-Tuesday,22,September,16:00,17:00,"**Deep Sequencing and Functional Genomics**",,,[Gunnar Rätsch](https://www.mskcc.org/research-areas/labs/gunnar-ratsch),MSKCC New York,
-Wednesday,23,September,9:00,10:00,"**Gaussian Processes for Survival Analysis**",,,[Aki Vehtari](http://users.aalto.fi/~ave/),Aalto University,
-Wednesday,23,September,10:00,11:00,"**Mouse Models of Motor Neuron Disease (MND): Scientific and Ethical Aspects**",,,[Richard Mead](http://sitran.org/people/mead/),University of Sheffield,
+Tuesday,22,September,16:00,17:00,"**Deep Sequencing and Functional Genomics**",,,[Gunnar Rätsch](https://www.mskcc.org/research-areas/labs/gunnar-ratsch),MSKCC New York,7BnLROTABxc
+Wednesday,23,September,9:00,10:00,"**Gaussian Processes for Survival Analysis**",,,[Aki Vehtari](http://users.aalto.fi/~ave/),Aalto University,fTre891lptY
+Wednesday,23,September,10:00,11:00,"**Mouse Models of Motor Neuron Disease (MND): Scientific and Ethical Aspects**",,,[Richard Mead](http://sitran.org/people/mead/),University of Sheffield,lTRyKuumwkQ
 Wednesday,23,September,11:00,13:00,**Coffee Break and Poster Session**,,,,,
 Wednesday,23,September,13:00,14:00,**Lunch**,,,,,
 Wednesday,23,September,14:00,15:00,"**Discovering Sub-groups of Disease with Model Based Machine Learning**",,,[Iain Buchan](http://www.manchester.ac.uk/research/buchan/personaldetails),University of Manchester,
 Wednesday,23,September,15:00,15:30,**Tea Break**,,,,,
 Wednesday,23,September,15:30,17:00,"**Presentation of ITN Projects, Discussion of Existing Results**",,,,,
-Thursday,24,September,9:00,10:00,"**Stastical Significance in Biomarker Discovery**",,,[Karsten Borgwardt](https://www.bsse.ethz.ch/mlcb),ETH Zurich,
+Thursday,24,September,9:00,10:00,"**Stastical Significance in Biomarker Discovery**",,,[Karsten Borgwardt](https://www.bsse.ethz.ch/mlcb),ETH Zurich,LchwpiVz9NU
 Thursday,24,September,10:00,11:00,"**Is Your Research Software Correct?**",,,[Mike Croucher](http://walkingrandomly.com),University of Sheffield,
 Thursday,24,September,11:00,13:00,**Coffee Break and Poster Session**,,,,,
 Thursday,24,September,13:00,14:00,**Lunch**,,,,,
-Thursday,24,September,14:00,15:00,"**Impact of Machine Learning on Personalised Health: Past, Present and Future**",,,[Marta Milo](https://www.sheffield.ac.uk/bms/research/milo),University of Sheffield,
+Thursday,24,September,14:00,15:00,"**Impact of Machine Learning on Personalised Health: Past, Present and Future**",,,[Marta Milo](https://www.sheffield.ac.uk/bms/research/milo),University of Sheffield,iBGPXe35-mY
 Thursday,24,September,15:00,15:30,**Tea Break**,,,,,
 Thursday,24,September,15:30,17:00,"**Presentation of ITN Projects, Discussion of Existing Results**",,,,,
 Friday,25,September,9:00,10:00,"**The Road from Bench to Bedside: Ethical Considerations to Animal Use in Preclinical Research**",,,[Marcelo Rivolta](https://www.sheffield.ac.uk/bms/research/rivolta),University of Sheffield,
 Friday,25,September,10:00,11:00,"**The Law and the Ethics of Data**",,,[Jonathan Price](http://www.doughtystreet.co.uk/barristers/profile/jonathan-price),Doughty Street Chambers,
 Friday,25,September,11:00,11:30,**Coffee Break**,,,,,
-Friday,25,September,11:30,12:30,"**Truthiness in Genomics**",,,[Oliver Hofmann](http://www.gla.ac.uk/researchinstitutes/cancersciences/staff/oliverhofmann/),University of Glasgow,
+Friday,25,September,11:30,12:30,"**Truthiness in Genomics**",,,[Oliver Hofmann](http://www.gla.ac.uk/researchinstitutes/cancersciences/staff/oliverhofmann/),University of Glasgow,zn_XFLmTGK0
 Friday,25,September,12:30,13:30,**Lunch**,,,,,
-Friday,25,September,13:30,14:30,"**Translation and Personalised Medicine: Genome Medicine Meets Reality**",,,[Winston Hide](https://www.sheffield.ac.uk/neuroscience/staff/hide),University of Sheffield,
+Friday,25,September,13:30,14:30,"**Translation and Personalised Medicine: Genome Medicine Meets Reality**",,,[Winston Hide](https://www.sheffield.ac.uk/neuroscience/staff/hide),University of Sheffield,kRT6GhTWOhs
 Friday,25,September,15:00,15:30,"**Guided Tour of Manchester Baby**",,,,,
 

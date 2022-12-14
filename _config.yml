@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl"
   Summer school of the Marie Curie ITN "Machine Learning fro Personalized Medicine"
 baseurl: "" # the subpath of your site, e.g. /blog/
 logo: "mlpm_Logo_final_cropped.gif"
-url: "http://gpss.cc" # the base hostname & protocol for your site
+url: "https://gpss.cc" # the base hostname & protocol for your site
 twitter_username: mlpm_itn
 github_username:  SheffieldML
 analytics:
@@ -20,13 +20,13 @@ youtube:
 conference:
   youtube: rHAKf3rGpC8
   hosts:
-  - {name: Museum of Science and Industry, url: "http://www.mosi.org.uk/"}
+  - {name: Museum of Science and Industry, url: "https://www.mosi.org.uk/"}
   organizers:
-  - {name: Max Zwiessele, url: "http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/"}
-  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
-  - {name: The Farr Institute, url: "http://www.farrinstitute.org/"}
-  - {name: The NewMind Network, url: "http://www.informatics.manchester.ac.uk/NewMind/Pages/default.aspx"}
-  - {name: MLPM ITN Network, url: "http://mlpm.eu"}
+  - {name: Max Zwiessele, url: "https://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/"}
+  - {name: Neil Lawrence, url: "https://inverseprobability.com"}
+  - {name: The Farr Institute, url: "https://www.farrinstitute.org/"}
+  - {name: The NewMind Network, url: "https://www.informatics.manchester.ac.uk/NewMind/Pages/default.aspx"}
+  - {name: MLPM ITN Network, url: "https://mlpm.eu"}
   name: MLPM Summer School
   hosturl: 
   location: Museum of Science and Industry, Manchester
